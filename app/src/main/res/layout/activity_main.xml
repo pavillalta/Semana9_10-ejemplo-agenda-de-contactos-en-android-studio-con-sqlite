@@ -15,7 +15,8 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="0dp"
         android:layout_marginLeft="0dp"
-        android:layout_marginTop="-1dp" />
+        android:layout_marginTop="-1dp"
+        android:background="#8BC34A" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/btnRegAmigos"
